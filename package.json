@@ -1,8 +1,9 @@
 {
   "name": "react-hooks-debug",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Debugging tools for react hooks",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "prepublishOnly": "npx tsc"
   },
