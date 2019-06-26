@@ -1,0 +1,33 @@
+{
+  "name": "react-hooks-debug",
+  "version": "1.0.0-alpha.1",
+  "description": "Debugging tools for react hooks",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublishOnly": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhgb/react-hooks-debug.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "hooks",
+    "debug"
+  ],
+  "author": "Wang Mengzhe",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rhgb/react-hooks-debug/issues"
+  },
+  "homepage": "https://github.com/rhgb/react-hooks-debug#readme",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.22",
+    "react": "^16.8.6",
+    "typescript": "^3.5.2"
+  }
+}
